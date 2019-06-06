@@ -3,7 +3,7 @@
 
 
 ### 시연영상
-- (@FloatingPopulation_bot 시연영상)[https://drive.google.com/file/d/128QG-NkOMQthVG1EVyAhBQv9j1YQPz8S/view?usp=sharing]
+- [@FloatingPopulation_bot 시연영상](https://drive.google.com/file/d/128QG-NkOMQthVG1EVyAhBQv9j1YQPz8S/view?usp=sharing)
 
 ### 참여자
 - 201333002 박범준
