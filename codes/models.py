@@ -1,7 +1,7 @@
-chat_id = 800152701
+chat_id = **********
 from telegram.ext import Updater, MessageHandler, Filters
 
-updater = Updater(token='858673203:AAEZ9ldakIPE3ZHYpJH8VgNIB3tbJ6hpZQw')
+updater = Updater(token='***********************************')
 dispatcher = updater.dispatcher
 updater.start_polling()
 
